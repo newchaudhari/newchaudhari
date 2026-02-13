@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing a Microservices-based E-commerce Backend using Spring Boot, Spring Cloud, and MySQL. <br>👯 I’m looking to collaborate on Open-source Java projects on GitHub or building RESTful APIs for community-driven web applications. <br>🤝 I’m looking for help with Implementing advanced security protocols like OAuth2 and JWT and optimizing database queries with Hibernate/JPA. <br>💬 Ask me about The Spring IoC container, Dependency Injection, or why Spring Boot's Auto-configuration is a lifesaver.<br>⚡ Fun fact Java was originally going to be named "Oak," but after finding out that name was already trademarked, the team chose "Java" while drinking lots of coffee.<br>
+🌱 I’m currently learning everything 🤣 <br>👯 I’m looking to collaborate with other developers <br>🤝 🥅 2026 Goals: Learn more than previous year <br>⚡ Fun fact: U will never regret meeting me 😉<br>
 
 
 ## 🌐 Socials:
